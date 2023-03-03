@@ -4,13 +4,13 @@
     "option-user": "User you want to play with"
   },
   "duel": {
-    "title": ":crossed_swords: New duel challenge",
+    "title": "<:icon_bug_hunter:1017706220632670279> New duel challenge",
     "challenge": "**{initier}** challenged you to a duel!",
-    "action": "React to this message to accept or decline the duel.",
-    "expire": ":x: `{invited}` did not rise up to the challenge.",
-    "reject": ":x: `{invited}` has rejected the duel.",
-    "unknown-user": "you cannot challenge that user.",
-    "no-bot": "you cannot challenge bots.",
+    "action": "React this message to accept or decline the duel.",
+    "expire": "<:icon_incorrect:1005149910280175616> `{invited}` did not rise up to the challenge.",
+    "reject": "<:icon_incorrect:1005149910280175616> `{invited}` has rejected the duel.",
+    "unknown-user": "You cannot challenge that user.",
+    "no-bot": "Bots cannot be challenged!",
     "button": {
       "accept": "Accept",
       "decline": "Decline"
@@ -18,13 +18,13 @@
   },
   "game": {
     "title": ":game_die: `{player1}` **VS** `{player2}`",
-    "action": "{player}, select your move:",
+    "action": ":kazuha_panic: {player}, your move:",
     "load": "Reactions are loading, please wait...",
-    "end": "No one won the game, it's a tie! Let's try again?",
-    "win": ":tada: {player} has won the game!",
-    "expire": ":x: Game has **expired**... maybe because of one user inactivity.",
-    "in-progress": "you cannot start another game, please wait for current one to end.",
-    "waiting-ai": ":robot: AI is playing, please wait...",
-    "ai": "the AI"
+    "end": "No one won the game, It's a tie! Let's try again?",
+    "win": ":aqua_celebration: {player} has won the game!",
+    "expire": "<:icon_incorrect:1005149910280175616> Game has **expired**... maybe because of one user inactivity.",
+    "in-progress": "You cannot start another game, please wait for current one to end.",
+    "waiting-ai": ":paimon_think: AI is playing, please wait...",
+    "ai": "AI"
   }
 }
