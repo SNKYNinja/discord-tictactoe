@@ -4,7 +4,7 @@
     "option-user": "User you want to play with"
   },
   "duel": {
-    "title": "<:icon_bug_hunter:1017706220632670279> New duel challenge",
+    "title": "<:pika_weapon:1081284529953722468> New duel challenge",
     "challenge": "**{initier}** challenged you to a duel!",
     "action": "React this message to accept or decline the duel.",
     "expire": "<:icon_incorrect:1005149910280175616> `{invited}` did not rise up to the challenge.",
@@ -18,7 +18,7 @@
   },
   "game": {
     "title": ":game_die: `{player1}` **VS** `{player2}`",
-    "action": ":kazuha_panic: {player}, your move:",
+    "action": "<a:kazuha_panic:1081127846191300689> {player}, your move:",
     "load": "Reactions are loading, please wait...",
     "end": "No one won the game, It's a tie! Let's try again?",
     "win": ":aqua_celebration: {player} has won the game!",
