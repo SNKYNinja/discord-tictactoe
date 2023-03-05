@@ -22,9 +22,9 @@
     "load": "Reactions are loading, please wait...",
     "end": "The game has ended in a tie!",
     "win": "<:aqua_celebration:1081126342826922065> {player} has won the game!",
-    "expire": "<:icon_incorrect:1005149910280175616> Game has **expired**... maybe because of one user inactivity.",
+    "expire": "<:icon_incorrect:1005149910280175616> Game has **expired** due to user inactivity",
     "in-progress": "You cannot start another game, please wait for current one to end.",
-    "waiting-ai": "<:paimon_think:1069146318133547058> AI is playing, please wait...",
-    "ai": "AI"
+    "waiting-ai": "<:paimon_think:1069146318133547058> Paimon is thinking...",
+    "ai": "Paimon"
   }
 }
