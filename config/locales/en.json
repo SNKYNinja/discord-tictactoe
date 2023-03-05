@@ -21,10 +21,10 @@
     "action": "<a:kazuha_panic:1081127846191300689> {player}, your move:",
     "load": "Reactions are loading, please wait...",
     "end": "No one won the game, It's a tie! Let's try again?",
-    "win": ":aqua_celebration: {player} has won the game!",
+    "win": "<:aqua_celebration:1081126342826922065> {player} has won the game!",
     "expire": "<:icon_incorrect:1005149910280175616> Game has **expired**... maybe because of one user inactivity.",
     "in-progress": "You cannot start another game, please wait for current one to end.",
-    "waiting-ai": ":paimon_think: AI is playing, please wait...",
+    "waiting-ai": "<:paimon_think:1069146318133547058> AI is playing, please wait...",
     "ai": "AI"
   }
 }
