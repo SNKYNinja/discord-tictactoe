@@ -49,6 +49,8 @@ class DuelRequest {
                     .setTitle(localize_1.default.__('duel.title'))
                     .setDescription(content)
                     .setColor(this.embedColor)
+                    .setTimestamp()
+                    .setAuthor({ name: initier, iconURL: this.tunnel.author.displayAvatarURL() })
             ]
         };
     }
